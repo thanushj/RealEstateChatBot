@@ -1,0 +1,25 @@
+#propert.json file -> just for format not used as data (store it as property.json file in a folder)
+[
+  {
+      "property_type": "apartment",
+      "location": "Chennai, India",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "square_footage": 1000,
+      "price": 5000000,
+      "amenities": ["swimming pool", "gym", "security"],
+      "description": "A modern 2-bedroom apartment in a prime location with excellent amenities.",
+      "url": "https://example.com/property1"
+  },
+  {
+      "property_type": "house",
+      "location": "Bangalore, India",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_footage": 2000,
+      "price": 10000000,
+      "amenities": ["garden", "garage", "study room"],
+      "description": "A spacious 3-bedroom house with a garden and garage, located in a peaceful neighborhood.",
+      "url": "https://example.com/property2"
+  }
+]
